@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **JS, ReactJS,Redux, Next JS, Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-v2-aksramanis-projects.vercel.app/#/](https://portfolio-v2-aksramanis-projects.vercel.app/#/)
+- 👨‍💻 All of my projects are available at [https://portfolio-v2-aksramanis-projects.vercel.app/#/](https://portfolio-v2-aksramanis-projects.vercel.app)
 
 - 💬 Ask me about **React JS, Javascript**
 
